@@ -1,0 +1,1 @@
+document.write('<a href="../ads/ad_redirect.aspx?ai_id=93" target="_blank" onClick=pageTracker._trackEvent("ad","click","CamHR_Job_Fair") ><img src="../ads/files/61fc282d-e891-48a6-8315-64a13ca12978.gif"  alt="CamHR_Job_Fair" border="0"></a>');

@@ -1,0 +1,1 @@
+document.write('<a href="../ads/ad_redirect.aspx?ai_id=30" target="_blank" onClick=pageTracker._trackEvent("ad","click","Cam111_FB") ><img src="../ads/files/59043f5c-98cc-40a7-a3c7-8f33bcd602f7.gif"  alt="Cam111_FB" border="0"></a>');

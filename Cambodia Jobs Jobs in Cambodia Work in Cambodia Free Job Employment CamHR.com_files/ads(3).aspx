@@ -1,0 +1,1 @@
+document.write('<a href="../ads/ad_redirect.aspx?ai_id=105" target="_blank" onClick=pageTracker._trackEvent("ad","click","yellowpage") ><img src="../ads/files/6235f9c3-c3c2-48ae-a2eb-39d38d9b2125.gif"  alt="yellowpage" border="0"></a>');

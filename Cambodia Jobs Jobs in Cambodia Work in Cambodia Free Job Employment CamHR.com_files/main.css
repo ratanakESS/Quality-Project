@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* Home */
+em{ font-style:normal; color:#c00;}
+#list img{height:11px;width:28px;padding-top: 7px;}
+.red{color:#c00; font-style:normal; height:25px;}
+h2{font-weight:700;color:#256fda;height:25px;width:926px;font-size:14px;margin:0;border-bottom-width:2px;border-bottom-style:solid;border-bottom-color:#dcdcdc;background-image:url(../images/job_seeker/xb.gif);background-repeat:no-repeat;padding-left:24px;background-position:5px 50%;}
+#top{float:left;height:242px;width:950px;margin-bottom:10px; position:relative;}
+#wrapmain{float:left;height:234px;width:750px;}
+#main{float:left;height:242px;width:510px;display:inline;margin-right:10px;background-image:url(../images/home/hot_job.gif);background-repeat:no-repeat; position:absolute; left:200px; top:0;}
+#gunDongNews{float:left;height:185px;width:476px;padding-left:18px;padding-top:20px;overflow:hidden;}
+#list{float:left;height:185px;width:476px;}
+#list li{border-bottom-width:1px;border-bottom-style:dotted;border-bottom-color:#ccc;line-height:25px;height:25px;width:476px;overflow:hidden;}
+#main span{color:#256fda;padding-left:3px;}
+#zp_btn{float:right;height:20px;width:480px;margin-top:5px;margin-right:5px;display:inline;}
+.jobalert{background-image:url(../images/home/jobalert.gif);background-repeat:no-repeat;float:left;height:20px;width:103px;border:none;margin-right:46px;cursor:pointer; display:inline;}
+.jobalert input{height:20px;width:103px;border:0;background:none;cursor:pointer;}
+#main .all_job_btn{float:left;height:20px;width:75px}
+#main .zjw_btn{float:left;height:20px;width:237px;margin-right:10px;}
+#main .jobalert{float:left;height:20px;width:103px;margin-right:46px;}
+#sub{float:left;height:234px;width:190px;padding-right:10px; position:absolute; left:0; top:0;}
+from{margin:0;padding:0;}
+#login{height:112px;width:190px;margin-bottom:10px;float:left;background-image:url(../images/home/login_bg.gif);background-repeat:no-repeat;}
+.login_t{background-image:url(../images/home/login_bg_t.gif);background-repeat:no-repeat;float:left;height:28px;width:190px;}
+.login_b{float:left;height:78px;width:190px;padding-top:30px;}
+.login_con{float:left;height:70px;width:164px;margin-top:4px;margin-left:12px;display:inline;}
+.login_con ul{float:left;height:70px;width:164px;}
+.login_con ul li{float:left;height:25px;width:82px;}
+#userName{float:left;width:90px;height:18px;line-height:18px;}
+#userPwd{float:left;width:90px;height:18px;line-height:18px;margin-top:4px;}
+#kw{line-height:18px;float:left;height:18px;width:86px;padding-right:7px;}
+.login_txt{float:left;height:47px;width:168px;}
+.login_txt_l{float:left;height:47px;width:90px;}
+.login_txt_r{float:left;height:47px;width:64px;margin-left:9px;display:inline;}
+.login_bt{background-image:url(../images/home/login_btn.gif);background-repeat:no-repeat;float:left;height:39px;width:64px;border:none;margin-top:4px;cursor:pointer;}
+.login_bt input{height:39px;width:64px;border:0;background:none;cursor:pointer;}
+.login_btn{float:left;height:15px;width:164px;margin-top:5px;}
+.Register_btn{background-image:url(../images/home/join_btn.gif);background-repeat:no-repeat;float:left;height:15px;width:56px;cursor:pointer;border:none;}
+.Register_btn input{height:15px;width:56px;border:0;background:none;cursor:pointer;}
+.find_btn{float:left;height:15px;width:103px;border:none;margin-left:5px;}
+.find_btn a img{border:none;}
+#search{float:left;height:120px;width:190px;background-image:url(../images/home/search_bg.gif);background-repeat:no-repeat;}
+.search_t{background-image:url(../images/home/login_bg_t.gif);background-repeat:no-repeat;float:left;height:28px;width:190px;}
+.search_b{float:left;height:86px;width:190px;padding-top:30px;}
+.search_con{float:left;height:70px;width:164px;margin-top:4px;margin-left:12px;display:inline;}
+.search_con_l{float:left;height:51px;width:168px;}
+.search_con_b{float:left;height:20px;width:168px;padding-top:2px;}
+.search_con select{float:left;width:168px;margin-bottom:4px;}
+.search_btn{background-image:url(../images/home/login_btn.gif);background-repeat:no-repeat;float:left;height:40px;width:40px;border:none;}
+#extra{float:left;height:242px;width:230px;position:absolute;left:720px;top:0;}
+#middle {float: left;height: 520px;width: 950px;position: relative;}
+#mid_banner{float:left;width:950px; position:absolute; top:0; left:0;}
+#mid_banner ul{width:924px;padding-left:13px;padding-top:12px;}
+#mid_banner ul li{float:left;height:40px;width:106px;margin-left:10px;display:inline;}
+#mid_banner ul .nopadd{float:left;height:40px;width:106px;margin-left:0;}
+#category{height:204px;width:950px; float:left; margin-bottom:10px; position:absolute; top:110px; left:0;}
+#location{height:204px;width:950px; float:left; margin-bottom:10px; position:absolute; top:320px; left:0;}
+.category_tit{background-image:url(../images/home/category_tit.gif);background-repeat:no-repeat;float:left;height:32px;width:950px;}
+.location_tit{background-image:url(../images/home/location_tit.gif);background-repeat:no-repeat;float:left;height:32px;width:950px;}
+.col_950_b{background-image:url(../images/home/category_con.gif);background-repeat:no-repeat;float:left;height:172px;width:950px;background-position:left bottom;}
+.col_950_b ul{float:left;height:auto;width:925px;display:inline;margin-left:13px;padding-top:8px;padding-bottom:14px;}
+.col_950_b ul li{line-height:25px;float:left;height:25px;width:185px;}
+#featured{ float:left; width:950px; height:auto; margin-top:10px;}
+.featured_b{float:left;width:950px;height:90px;overflow:hidden;}
+#featured li{float:left;height:40px;width:106px;padding-left:11px; margin-top:10px;}
+#featured li .notop{float:left;height:40px;width:106px;padding-left:11px; margin-top:0;}
+#andyscroll{overflow:hidden;background:#E8F8F8;padding:0 10px;text-align:left;width:478px;height:200px;overflow:hidden;}
